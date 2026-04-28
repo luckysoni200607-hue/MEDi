@@ -1,0 +1,6 @@
+{
+  "name": "MedSOS India",
+  "description": "A life-saving medical SOS system for Indian users, featuring one-tap emergency alerts, live GPS tracking, and hospital discovery.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["firebase", "maps"]
+}
